@@ -1,0 +1,57 @@
+Course Name: Java
+Faculty ID: 2
+Students:
+1 - Sumaiya - P - A - A
+2 - Tamim - P - P - P
+3 - Samia - A - P - P
+14 - Nafis - A - A - P
+20 - Fardin - P - P - P
+28 - Meherin - A - A - A
+35 - Tanjina - P - A - P
+36 - Rafi - A - A - A
+39 - Kabir - A - A - P
+44 - Nafis - A - A - A
+55 - Tanjina - A - A - A
+67 - Shuvo - A - A - A
+81 - Sumaiya - A - A - A
+--------------------------------
+Course Name: OOP2
+Faculty ID: 2
+Students:
+1 - Sumaiya - A - A - A
+2 - Tamim - A - A - A
+3 - Samia - A - A - A
+14 - Nafis - A - A - A
+20 - Fardin - A - A - P
+28 - Meherin - A - A - A
+35 - Tanjina - P - A - P
+36 - Rafi - A - A - A
+39 - Kabir - P - A - A
+44 - Nafis - A - A - A
+55 - Tanjina - P - A - P
+67 - Shuvo - A - A - A
+81 - Sumaiya - A - A - A
+10 - Fardin - A - A - A
+13 - Samia - P - A - A
+34 - Nafis - A - A - A
+48 - Meherin - A - A - A
+62 - Tamim - A - A - A
+85 - Tanjina - A - A - A
+96 - Rafi - A - A - A
+100 - Fardin - A - P - A
+--------------------------------
+Course Name: Dlc
+Faculty ID: 2
+Students:
+10 - Kabir - A
+11 - Fardin - A
+15 - Nafis - A
+16 - Tanjina - P
+--------------------------------
+Course Name: oop outer course
+Faculty ID: 2
+Students:
+8 - Shuvo
+12 - Sumaiya
+96 - Tanjina
+--------------------------------
